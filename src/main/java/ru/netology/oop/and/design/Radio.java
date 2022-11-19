@@ -17,7 +17,7 @@ public class Radio {
         if (CurrentRadioStationNumber > 9) {
             return;
         }
-        this.currentRadioStationNumber = CurrentRadioStationNumber;
+        currentRadioStationNumber = CurrentRadioStationNumber;
     }
 
 
